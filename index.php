@@ -94,7 +94,7 @@
 						<li class="nav-item">
 							<a class="nav-link" href="#contact">
 								<p class="nav-link-number">06</p>
-								<p class="nav-link-menu">Contact</p>
+								<p class="nav-link-menu">Contacto</p>
 							</a>
 						</li>
 					</ul>
